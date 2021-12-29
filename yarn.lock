@@ -841,10 +841,10 @@ form-data@~2.3.1, form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-form-urlencoded@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/form-urlencoded/-/form-urlencoded-3.0.0.tgz#7f5da60c0a110c333549aacbaf9f7ded65936ea1"
-  integrity sha512-zSgBjyO5Yo3TCfElJKqlSBGOEq8lZjltZAYqew4X5trf4AbH4sZhBesvywy7IpD1mfbu8JS6733V3zv3YdIW1g==
+form-urlencoded@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/form-urlencoded/-/form-urlencoded-3.0.2.tgz#28181fabc31b263662d6fc9c2e9700af35b2a860"
+  integrity sha512-FurPsZ7yfmbX+Vl9ibn/PK5EkeScj/inKtCqx9vc9EOlzh6p6VhanfeIjtDk/kCGrWVbCVW8M3GA7zX3udmgHw==
 
 fs.realpath@^1.0.0:
   version "1.0.0"
