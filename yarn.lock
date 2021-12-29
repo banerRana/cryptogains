@@ -1348,10 +1348,10 @@ lodash@3.1.0:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.1.0.tgz#d41b8b33530cb3be088853208ad30092d2c27961"
   integrity sha1-1BuLM1MMs74IiFMgitMAktLCeWE=
 
-lodash@4.12.0:
-  version "4.12.0"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.12.0.tgz#2bd6dc46a040f59e686c972ed21d93dc59053258"
-  integrity sha1-K9bcRqBA9Z5obJcu0h2T3FkFMlg=
+lodash@^4.17.10:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lodash@^4.17.11, lodash@^4.2.0:
   version "4.17.11"
@@ -2077,17 +2077,17 @@ semver@5.3.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.3.0.tgz#9b2ce5d3de02d17c6012ad326aa6b4d0cf54f94f"
   integrity sha1-myzl094C0XxgEq0yaqa00M9U+U8=
 
-sequelize@3.30.4:
-  version "3.30.4"
-  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-3.30.4.tgz#bda2df1e31854b099e4149a111e9fc0a5ca1d1a4"
-  integrity sha1-vaLfHjGFSwmeQUmhEen8Clyh0aQ=
+sequelize@3.35.1:
+  version "3.35.1"
+  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-3.35.1.tgz#1f4fc124090fec87dba98c6ceae15735f7b8f0db"
+  integrity sha512-NhUmk4U+fS33/XW8CZsu1fSk8iSseJWF8fKuSa+kDIAK+lmA254QBbDAJiFvdH0P1ZSxyIS1zXl8FqVK5JDq9g==
   dependencies:
     bluebird "^3.3.4"
     depd "^1.1.0"
     dottie "^1.0.0"
     generic-pool "2.4.2"
     inflection "^1.6.0"
-    lodash "4.12.0"
+    lodash "^4.17.10"
     moment "^2.13.0"
     moment-timezone "^0.5.4"
     retry-as-promised "^2.0.0"
