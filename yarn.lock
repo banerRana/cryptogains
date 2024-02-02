@@ -861,10 +861,10 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gdax@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/gdax/-/gdax-0.8.0.tgz#1f6a82c4be608c24189afd66ad4ab0c13fae722a"
-  integrity sha512-vBIjEk1q8IyulEOcjewcuPA5Aob25T1xUPUKLtQIrj4g1cxvdxCob7uoJbGZ4B1YVTnx1pvOaVY8Zu6ncL5YnA==
+gdax@0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/gdax/-/gdax-0.9.0.tgz#1bc7be50862b4b175cd81b6a42ee31f972b6dc45"
+  integrity sha512-TBCzcTMs7VK7UviH4n68wNPipmPB5Mt0p2x86kT05v/Kv/n1uVOUcwFkAV7oKmx2BWWlJbI2SRODjpQCfQZYxg==
   dependencies:
     "@types/request" "2.47.0"
     bignumber.js "^6.0.0"
